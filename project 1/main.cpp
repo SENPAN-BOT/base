@@ -23,6 +23,7 @@ void main(void)
 	int aData[MAX_DATA];
 
 	printf("‚±‚ñ‚¢‚¿‚Í");
+	printf("‚‹´¹Æ");
 
 	//ƒL[“ü—Í‘Ò‚¿
 	rewind(stdin);
