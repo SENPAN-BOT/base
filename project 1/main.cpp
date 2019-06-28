@@ -26,6 +26,9 @@ void main(void)
 	printf("\nこんばんは");
 	printf("井上遼真");
 
+	printf("\nこんばんは");
+	printf("ヤマダ電機");
+
 	//キー入力待ち
 	rewind(stdin);
 	getchar();
