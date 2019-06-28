@@ -25,6 +25,9 @@ void main(void)
 	printf("‚±‚ñ‚¢‚¿‚Í");
 	printf("‚‹´¹Æ");
 
+	printf("\n‚±‚ñ‚¢‚¿‚Í");
+	printf("—é–Ø—I–ç");
+
 	//ƒL[“ü—Í‘Ò‚¿
 	rewind(stdin);
 	getchar();
